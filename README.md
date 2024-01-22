@@ -1,8 +1,16 @@
-# React + Vite
+# ReactPizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div id="header" align="center">
+    <div>
+        <img src="https://media4.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e476ht8f5g4s8rz6uaiu8lfpmhkz0u3wgd4dro098xo&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="200" height="200">
+    </div>
+</div>
 
-Currently, two official plugins are available:
+### 🛠️ Libraries and tools used :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" width="80" height="80">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="80" height="80">&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="80" height="80">&nbsp;
+   
+</div>
